@@ -16,7 +16,7 @@
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 Create two deployment workflows using GitHub Actions and Microsoft Azure.
 
@@ -36,9 +36,9 @@ Create two deployment workflows using GitHub Actions and Microsoft Azure.
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Trigger a job based on labels</h2></summary>
 
 ![Screen Shot 2022-06-07 at 4 01 43 PM](https://user-images.githubusercontent.com/6351798/172490466-00f27580-8906-471f-ae83-ef3b6370df7d.png)
